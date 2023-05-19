@@ -20,14 +20,14 @@ Dica:
 
 Tamanho original:
 
-<img width="393" alt="Captura de Tela 2023-05-19 às 11 07 52" src="https://github.com/laspbr/DESAFIO-QA-CYPRESS/assets/38757479/d365bba0-c042-463c-973a-390a720c79d7">
+<img width="393" src="https://github.com/laspbr/DESAFIO-QA-CYPRESS/blob/main/Tamanho%20original.png">
 
 
 ### 2) Capturar o tamanho deste quadrado e validar (fazer a asserção) da escala de 225 x 225 px. 
 
 Tamanho após o longclick: 
 
-<img width="393" alt="Captura de Tela 2023-05-19 às 11 08 01" src="https://github.com/laspbr/DESAFIO-QA-CYPRESS/assets/38757479/44b17f9c-c190-4504-86c0-042ffd3c3406">
+<img width="393" src="[https://github.com/laspbr/DESAFIO-QA-CYPRESS/assets/38757479/44b17f9c-c190-4504-86c0-042ffd3c3406](https://github.com/laspbr/DESAFIO-QA-CYPRESS/blob/main/longclick.png)">
 
 ## Critérios de Avaliação
 
