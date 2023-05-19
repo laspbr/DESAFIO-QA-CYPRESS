@@ -38,5 +38,9 @@ Tamanho após o longclick:
    - Execução correta do teste;
    - Geração de relatórios/métricas de qualidade (qualquer saída minimamente organizada);
    - Conhecimento de GIT.
+   
+## Extra
+
+   - Uso do formato Gherkin.
 
 ## Bom desafio! 
