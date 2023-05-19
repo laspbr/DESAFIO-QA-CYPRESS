@@ -27,7 +27,7 @@ Tamanho original:
 
 Tamanho após o longclick: 
 
-<img width="393" src="[https://github.com/laspbr/DESAFIO-QA-CYPRESS/assets/38757479/44b17f9c-c190-4504-86c0-042ffd3c3406](https://github.com/laspbr/DESAFIO-QA-CYPRESS/blob/main/longclick.png)">
+<img width="393" src="https://github.com/laspbr/DESAFIO-QA-CYPRESS/blob/main/longclick.png">
 
 ## Critérios de Avaliação
 
