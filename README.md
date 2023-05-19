@@ -14,7 +14,7 @@ Pré-requisitos:
 Dica: 
 1) Esta aplicação usa hammer.js como biblioteca de eventos de componentes em webapps. 
 
-## Resumindo, seu script deve fazer: 
+## Seu script de testes deve fazer
 
 ### 1) Simular o longclick deste quadrado verde, para que ele expanda o seu tamanho. 
 
