@@ -31,7 +31,7 @@ Tamanho após o longclick:
 
 ## Critérios de Avaliação
 
-   - Organização e detalhamento do Projeto (organização e o nível de detalhamento da entrega serão cruciais nesta avaliação; 
+   - Organização e detalhamento do Projeto (organização e o nível de detalhamento da entrega serão cruciais nesta avaliação); 
    - Conhecimento da ferramenta de automação de análise de qualidade;
    - O correto comportamento do teste; 
    - A correta validação do tamanho do quadrado expandido; 
